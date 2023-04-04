@@ -5,7 +5,7 @@ Quick set of hashes called bad3cx.hdb for use with ClamAV, which can be download
 
 http://www.clamav.net/downloads
 
-Download the bad3cx.hdb database and please in clamav/database folder 
+Download the bad3cx.hdb database and place in clamav/database folder 
 or scan using command line, such as
 
 clamscan --database=bad3cx.hdb c:\ --infected
